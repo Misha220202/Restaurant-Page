@@ -40,7 +40,7 @@ Thumbs.db
 /public/**/*.php
 
 # Ignore compiled CSS and source maps
-*.css
+# *.css
 *.css.map
 
 # Ignore any specific runtime files
