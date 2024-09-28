@@ -1,6 +1,5 @@
 # Restaurant-Page
 
-## Project Overview
 The Misha Restaurant website is a simple single-page application designed to showcase a restaurant in Canada. Users can easily navigate between the Home, Menu, and About sections, each providing relevant information and images to enhance the user experience.
 
 ## Features
